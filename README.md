@@ -1,4 +1,5 @@
 # LGD-Production-Quality-Report-Dashboard
+<img width="985" height="795" alt="image" src="https://github.com/user-attachments/assets/1971672e-eca9-4137-b62d-e28434a47b8b" />
 
 # LG디스플레이 생산·품질 업무 보고서 대시보드
 
